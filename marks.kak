@@ -1,5 +1,5 @@
-set-face MarksBackground rgb:aaaaaa
-set-face MarksForeground red+b
+set-face global MarksBackground rgb:aaaaaa
+set-face global MarksForeground red+b
 
 #declare-option range-specs marks_specs
 
